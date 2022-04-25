@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zadanie 36 Dąbrowski</title>
+    <style type="text/css">
+        body{
+        background-color: rgb(51, 70, 60);
+        text-align : center;
+        margin : 50px;
+        }
+        div {
+        background : rgb(250,100,150);
+        width : 600px;
+        border : 3px black solid;
+        }
+        h1 {
+        margin : 20px;
+        border: solid;
+        border-color :black;
+        background : rgb(187, 187, 21);
+        }
+        h2 {
+        margin : 30px;
+        border-style: solid;
+        border-top-color: gray;
+        border-bottom-color: blue;
+        border-right-color: yellow;
+        border-left-color: purple;
+        background : rgb(126, 58, 58);
+        }
+        h3 {
+        margin : 40px;
+        border : 7px solid black;
+        background : rgb(39, 70, 117);
+        }
+        </style>
+</head>
+<body>
+    <div><h1>Kacper Dąbrowski</h1></div>
+<hr size="2" color="yellow">
+<div><h2>Kacper Dąbrowski</h2></div>
+<hr size="1" color="red">
+<div><h3>Kacper Dąbrowski</h3></div>
+</body>
+</html>
